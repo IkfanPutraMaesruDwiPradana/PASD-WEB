@@ -42,8 +42,8 @@ Tahap terakhir adalah menyusun tampilan dan logika interaktif dalam aplikasi web
 - **Opsional**: Visualisasi grafik, simpan hasil, export PDF, dan integrasi database.
 
 Keanggotaan 
-Ikfan Putra Maesru Dwi Pradana = 
-Khosyi Kafi Kirdiat = 
-Madina Nilasari = 
-Sabrina Salva Kalimatin Sava = 
-Novanditya Rhakahadi =
+- Ikfan Putra Maesru Dwi Pradana = 
+- Khosyi Kafi Kirdiat = 
+- Madina Nilasari = 
+- Sabrina Salva Kalimatin Sava = 
+- Novanditya Rhakahadi =
