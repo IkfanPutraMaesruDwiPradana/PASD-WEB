@@ -41,6 +41,19 @@ Tahap terakhir adalah menyusun tampilan dan logika interaktif dalam aplikasi web
 
 - **Opsional**: Visualisasi grafik, simpan hasil, export PDF, dan integrasi database.
 
+file model randomforest
+https://drive.google.com/file/d/1DDzP7owxInGaTqx-9077zXuNAsIg7qKC/view?usp=sharing
+
+struktur model web
+├── app.py
+├── career.png
+├── success_animation.json
+├── random_forest_model.pkl
+├── gender_encoder.pkl
+├── interest_encoder.pkl
+├── target_encoder.pkl
+├── README.md
+
 Keanggotaan 
 - Ikfan Putra Maesru Dwi Pradana = 
 - Khosyi Kafi Kirdiat = 
